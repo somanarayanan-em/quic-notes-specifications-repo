@@ -2,7 +2,7 @@
 
 This is the **specifications repo** used in the **AIDE Deep Dive course** (also known as the AIDE Crash Course). Over the course of the session you will build up your requirements, solution, and implementation specifications here.
 
-Its siblings are [`course-project-workspace`](https://dev.azure.com/IntelliwareDev/AI_Knowledge_Repo/_git/course-project-workspace), which holds the framework and the project configuration and is the one you clone first, and [`course-knowledge-base`](https://dev.azure.com/IntelliwareDev/AI_Knowledge_Repo/_git/course-knowledge-base), the knowledge base repo.
+Its siblings are [`course-project-workspace`](https://github.com/somanarayanan-em/course-project-workspace), which holds the framework and the project configuration and is the one you clone first, and [`course-knowledge-base`](https://github.com/somanarayanan-em/quic-notes-knowledge-base), the knowledge base repo.
 
 ## Nothing is ever merged into `main`
 
