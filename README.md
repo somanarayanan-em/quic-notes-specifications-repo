@@ -1,6 +1,6 @@
 # Course Specifications Repo
 
-This is the **specifications repo** used in the **AIDE Deep Dive course** (also known as the AIDE Crash Course). Over the course of the session you will build up your requirements, solution, and implementation specifications here.
+This is the **specifications repo** used in the **today's course** (also called today's lesson). Over the course of the session you will build up your requirements, solution, and implementation specifications here.
 
 Its siblings are [`course-project-workspace`](https://github.com/somanarayanan-em/course-project-workspace), which holds the framework and the project configuration and is the one you clone first, and [`quic-notes-knowledge-base`](https://github.com/somanarayanan-em/quic-notes-knowledge-base), the knowledge base repo.
 
@@ -22,6 +22,6 @@ git pull
 git checkout -b <your-unique-branch-name>
 ```
 
-Pick a branch name that is unique to you, for example `jdoe/aide-deep-dive` or `aide-2026-09-jdoe`. Use the same name in all three course repos — nothing enforces it, it just means you never have to work out which branch you are on in which folder.
+Use your own name for your branch. Use the same name in all three course repos — nothing enforces it, it just means you never have to work out which branch you are on in which folder.
 
 Normally your instructor will have taken care of this for you before the session starts, so in most cases there is nothing for you to do here.
